@@ -4,6 +4,11 @@ Welcome to the AI-Driven Personal Financial Advisor project! This project aims t
 
 ## Overview
 This project will help users manage their finances by categorizing expenses, recommending investment options, and more.
+## Documentation
+
+- [Features](features.md)
+- [Roadmap](roadmap.md)
+- [Getting Started](getting-started.md)
 
 ## Features
 - Expense tracking and analysis
